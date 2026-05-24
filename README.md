@@ -17,7 +17,7 @@ Computer Science Student at ESI Algiers 🇩🇿
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,tailwind.js" />
 </p>
 
 ### Frameworks & Technologies
@@ -27,11 +27,10 @@ Computer Science Student at ESI Algiers 🇩🇿
 
 ### Tools I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,ps,pr" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,ps,pr,capcut" />
 </p>
 
-- 🎬 Adobe Premiere Pro  
-- 🤖 UiPath (RPA)  
+ 
 
 ---
 
