@@ -12,16 +12,43 @@ Computer Science Student at ESI Algiers 🇩🇿
 - 🧠 Learning Algorithms & Problem Solving
 - 🌱 Currently improving my C, Assembly & Frontend skills
 
-## 🛠️ Tech Stack
-![C](https://img.shields.io/badge/C-pink?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-pink?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-pink?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JS-pink?style=for-the-badge)
+  
+## 🛠️ Tech Stack & Tools
 
-## 🌸 Current Goals
-- Build more projects
-- Improve problem solving
-- Learn React
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,html,css,js" />
+</p>
+
+### Frameworks & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=react,git,github,linux" />
+</p>
+
+### Tools I Use
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,ps" />
+</p>
+
+- 🎬 Adobe Premiere Pro  
+- 🤖 UiPath (RPA)  
+
+---
+
+## 🌸 Projects
+✨ Health Care Mobile App  
+✨ 8086 Assembly Encryption Engine  
+✨ Data Structures for Text Analysis  
+✨ UI/UX App Design  
+
+---
+
+## 🎯 Current Goals
+- 🚀 Build more projects
+- 🧩 Improve problem-solving skills
+- ⚛️ Learn React
+- 🌐 Become better at web development
+
 
 ## 📫 Contact
 📧 pk_kasmi@esi.dz
