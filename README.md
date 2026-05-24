@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Khadidja 🌸</h1>
+<h1 align="center">Hi, I'm kasmi Khadidja 🌸</h1>
 
 <p align="center">
 Computer Science Student at ESI Algiers 🇩🇿
