@@ -27,7 +27,7 @@ Computer Science Student at ESI Algiers 🇩🇿
 
 ### Tools I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,ps" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,ps,pr" />
 </p>
 
 - 🎬 Adobe Premiere Pro  
@@ -46,8 +46,7 @@ Computer Science Student at ESI Algiers 🇩🇿
 ## 🎯 Current Goals
 - 🚀 Build more projects
 - 🧩 Improve problem-solving skills
-- ⚛️ Learn React
-- 🌐 Become better at web development
+- 🌐 Become better a developper
 
 
 ## 📫 Contact
