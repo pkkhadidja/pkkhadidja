@@ -17,7 +17,7 @@ Computer Science Student at ESI Algiers 🇩🇿
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,html,css,Next.js,React.js" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,nextjs,reactjs" />
 </p>
 
 ### Frameworks & Technologies
