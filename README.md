@@ -3,8 +3,12 @@
 <p align="center">
 Computer Science Student at ESI Algiers 🇩🇿
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Computer+Science+Student;Learning+Web+Development;Building+Cool+Projects+%F0%9F%92%BB" />
+</p>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=header"/>
 
 ## 👩‍💻 About Me
 - 🎓 First-year CS student at ESI Algiers
