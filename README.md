@@ -8,7 +8,6 @@ Computer Science Student at ESI Algiers 🇩🇿
 </p>
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=header"/>
 
 ## 👩‍💻 About Me
 - 🎓 First-year CS student at ESI Algiers
@@ -18,10 +17,6 @@ Computer Science Student at ESI Algiers 🇩🇿
 
   
 ## 🛠️ Tech Stack & Tools
-<img src="https://img.shields.io/badge/C-ff69b4?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-ff69b4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white" />
-
 ### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,html,css,nextjs,tailwind,reactjs" />
