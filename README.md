@@ -4,7 +4,7 @@
 Computer Science Student at ESI Algiers 🇩🇿
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Computer+Science+Student;Front+End+Deceloper;Learning+Development;Building+small+Projects+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Computer+Science+Student;Front+End+DeVeloper;Learning+Development;Building+small+Projects+%F0%9F%92%BB" />
 </p>
 
 ---
