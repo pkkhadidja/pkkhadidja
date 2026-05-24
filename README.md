@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Khadidja 🌸</h1>
 
-<!--
-**pkkhadidja/pkkhadidja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Computer Science Student at ESI Algiers 🇩🇿
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🎓 First-year CS student at ESI Algiers
+- 💻 Interested in Web Development
+- 🧠 Learning Algorithms & Problem Solving
+- 🌱 Currently improving my C, Assembly & Frontend skills
+
+## 🛠️ Tech Stack
+![C](https://img.shields.io/badge/C-pink?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-pink?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-pink?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JS-pink?style=for-the-badge)
+
+## 🌸 Current Goals
+- Build more projects
+- Improve problem solving
+- Learn React
+
+## 📫 Contact
+📧 pk_kasmi@esi.dz
