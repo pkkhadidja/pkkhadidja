@@ -18,6 +18,9 @@ Computer Science Student at ESI Algiers 🇩🇿
 
   
 ## 🛠️ Tech Stack & Tools
+<img src="https://img.shields.io/badge/C-ff69b4?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-ff69b4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white" />
 
 ### Languages
 <p>
