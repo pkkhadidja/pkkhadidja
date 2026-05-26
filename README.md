@@ -23,7 +23,7 @@ Computer Science Student at ESI Algiers 🇩🇿
 
 ##📚 Cruently Learning 
 <p>
-  <img src="https://skillicons.dev/icons?i=c++,c#,java,davinci" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java" />
 </p>
 
 
