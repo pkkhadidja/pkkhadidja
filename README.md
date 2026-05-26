@@ -18,7 +18,7 @@ Computer Science Student at ESI Algiers 🇩🇿
   
 ## 🛠️ Tech Stack & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=c,html,css,nextjs,tailwind,reactjs,react,git,github,linux,vscode,figma,ps,pr,capcut" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,nextjs,tailwind,react,git,github,linux,vscode,figma,ps,pr,capcut" />
 </p>
 
 
