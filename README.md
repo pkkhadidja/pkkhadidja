@@ -43,7 +43,7 @@ Computer Science Student at ESI Algiers 🇩🇿
 ## 🎯 Current Goals
 - 🚀 Build more projects
 - 🧩 Improve problem-solving skills
-- 🌐 Become better a developer
+- 🌐 Become a better developer
 
 
 ## 📫 Contact
