@@ -23,7 +23,7 @@ Computer Science Student at ESI Algiers 🇩🇿
 
 ## 📚 Currently Learning 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,phython,flutter" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,flutter" />
 </p>
 
 
