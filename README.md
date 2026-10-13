@@ -34,12 +34,7 @@ Computer Science Student at ESI Algiers 🇩🇿
  Data Structures for Text Analysis  
  UI/UX App Design  
 
----
 
-##  Current Goals
--  Build more projects
-- Improve problem-solving skills
-- Become a better developer
 
 
 ##  Contact
