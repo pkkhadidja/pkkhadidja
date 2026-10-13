@@ -9,19 +9,19 @@ Computer Science Student at ESI Algiers 🇩🇿
 
 ---
 
-## 👩‍💻 About Me
-- 🎓 First-year CS student at ESI Algiers
-- 💻 Interested in Web Development
-- 🧠 Learning Algorithms & Problem Solving
-- 🌱 Currently improving my C, Assembly & Frontend skills
+##  About Me
+-  First-year CS student at ESI Algiers
+-  Interested in Web Development
+-  Learning Algorithms & Problem Solving
+-  Currently improving my C, Assembly & Frontend skills
 
   
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=c,html,css,nextjs,tailwind,react,git,github,linux,vscode,figma,ps,pr" />
 </p>
 
-## 📚 Currently Learning 
+##  Currently Learning 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,flutter" />
 </p>
@@ -32,11 +32,11 @@ Computer Science Student at ESI Algiers 🇩🇿
 
 ---
 
-## 🌸 Projects
-✨ Health Care Mobile App  
-✨ 8086 Assembly Encryption Engine  
-✨ Data Structures for Text Analysis  
-✨ UI/UX App Design  
+##  Projects
+ Health Care Mobile App  
+ 8086 Assembly Encryption Engine  
+ Data Structures for Text Analysis  
+ UI/UX App Design  
 
 ---
 
