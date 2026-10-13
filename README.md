@@ -9,11 +9,7 @@ Computer Science Student at ESI Algiers 🇩🇿
 
 ---
 
-##  About Me
--  First-year CS student at ESI Algiers
--  Interested in Web Development
--  Learning Algorithms & Problem Solving
--  Currently improving my C, Assembly & Frontend skills
+##   Second year CS student at ESI Algiers
 
   
 ##  Tech Stack & Tools
