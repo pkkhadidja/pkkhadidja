@@ -40,11 +40,11 @@ Computer Science Student at ESI Algiers 🇩🇿
 
 ---
 
-## 🎯 Current Goals
-- 🚀 Build more projects
-- 🧩 Improve problem-solving skills
-- 🌐 Become a better developer
+##  Current Goals
+-  Build more projects
+- Improve problem-solving skills
+- Become a better developer
 
 
-## 📫 Contact
-📧 pk_kasmi@esi.dz
+##  Contact
+ pk_kasmi@esi.dz
